@@ -1,0 +1,5 @@
+{
+  "name": "Supply Chain Analytics Dashboard",
+  "description": "A high-performance dashboard for monitoring Sales Order vs Projection metrics, featuring advanced filtering, data visualization, and AI-powered insights.",
+  "requestFramePermissions": []
+}
